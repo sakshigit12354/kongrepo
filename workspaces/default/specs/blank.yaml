@@ -1,4 +1,4 @@
-name: Lint OpenAPI spec
+name: Lint OpenAPI spec on blank
 on:
   push:
     branches:
