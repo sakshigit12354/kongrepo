@@ -48,4 +48,4 @@ jobs:
       run: deck convert --from kong-gateway-2.x --to kong-gateway-3.x --input-file kong.yaml --output-file new-kong.yaml
 
     - name: check    
-      run: deck sync -s new-kong.yaml --kong-addr ${{  secrets.KONG_ADMIN_ADDR  }}
+      run: deck sync -s new-kong.yaml --kong-addr ${{ secrets.KONG_ADMIN_ADDR }}
