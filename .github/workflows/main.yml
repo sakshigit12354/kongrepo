@@ -49,6 +49,6 @@ jobs:
         run: npm install -g kong-portal-cli		
       - name: Deploy to dev portal
         run: |          
-          portal deploy --preserve sand	  
+          portal deploy --preserve default	  
         env:
           KONG_ADMIN_URL: http://34.125.240.32:8001
