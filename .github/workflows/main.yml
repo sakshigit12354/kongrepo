@@ -1,4 +1,4 @@
-name: Demo to Delpoy OAS to Kong 
+name: Delpoy OAS to Kong 
 
 on:
   push:
