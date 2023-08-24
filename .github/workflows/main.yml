@@ -1,4 +1,4 @@
-name: Delpoy OAS to Kon
+name: Delpoy OAS to Kong
 
 on:
   push:
