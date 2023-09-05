@@ -1,1 +1,1 @@
-{"a": 10, "b": 20, "c": 30}
+{"RatelimitingCount": "100", "RatelimitingInterval": "10", "Timeunit": "minute", "kongkeyname": "", "Mocking": "False", "Timeout": "False", "TimeoutInput": "60", "RequestSize": "False", "RequestSizeInput": "12", "backendkeyname": "", "kongapikey": "False"}
