@@ -1,1 +1,1 @@
-{"RatelimitingCount": "100", "RatelimitingInterval": "10", "Timeunit": "minute", "kongkeyname": "kongkey", "Mocking": "1", "Timeout": "1", "TimeoutInput": "60", "RequestSize": "1", "RequestSizeInput": "12", "backendkeyname": "backkey", "kongapikey": "1"}
+{"RatelimitingCount": "100", "RatelimitingInterval": "10", "Timeunit": "minute", "kongkeyname": "kongkey", "Mocking": "None", "Timeout": "1", "TimeoutInput": "60", "RequestSize": "1", "RequestSizeInput": "12", "backendkeyname": "", "kongapikey": "1"}
